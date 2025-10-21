@@ -125,7 +125,7 @@ namespace TCP
             private  void button1_Click(object sender, EventArgs e)
             {
                 //await SendAsync();////  блокировка 
-                
+                //
                 SendAsync();//// кнопка не блокируется
             }
 
